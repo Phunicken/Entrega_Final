@@ -1,0 +1,12 @@
+Ventas de Bienes Raíces 2001-2020 GL
+
+
+
+Metadatos actualizados: 12 de agosto de 2023
+
+La Oficina de Política y Gestión mantiene un listado de todas las ventas de bienes raíces con un precio de venta de $2,000 o más que ocurren entre el 1 de octubre y el 30 de septiembre de cada año. Para cada registro de venta, el archivo incluye: ciudad, dirección de la propiedad, fecha de venta, tipo de propiedad (residencial, departamento, comercial, industrial o terreno baldío), precio de venta y tasación de la propiedad.
+
+Los datos se recopilan de acuerdo con los Estatutos Generales de Connecticut, secciones 10-261a y 10-261b: https://www.cga.ct.gov/current/pub/chap_172.htm#sec_10-261a y https://www.cga .ct.gov/current/pub/chap_172.htm#sec_10-261b . Las ventas anuales de bienes raíces se informan por año de lista general (del 1 de octubre al 30 de septiembre de cada año). Por ejemplo, las ventas del GL 2018 son del 01/10/2018 al 30/09/2019.
+
+
+Pagina de descarga: https://catalog.data.gov/dataset/real-estate-sales-2001-2018 
